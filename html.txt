@@ -1,0 +1,37 @@
+HTML(Hyper Text Markup Language):
+    *It is a blueprint of website.
+    *Hyper text- text which will take us to other pages.
+    *Markup-set of symbols inserted in adocument to control its structure.
+    *HTML is full of tags and enclosed with /.Eg.<h1></h1>
+Tags:
+    *Header tag<h1>.Depends on the font the number varies.
+    *paragraph tag<p>
+    *anchor tag<a href = link>
+        which will take us to another page.
+    *image tag<img src="image.ext">
+        which will make to open a image on our website.
+        
+    *break tag<br>
+        whic is used to skip the line and pass on to next.
+    *center tag<center>
+        which is used to allign the contents in the center .
+    *iframe tag<iframe src= link>
+        which is used to connect another website into our website.
+    *hr tag<hr> 
+        which is used to create a horizontal line.
+NOTE:
+    *comments can be given by<!-- ..... -->
+    attributes:
+        *'width=' is used to determine the size of the image.
+        *'alt=' is used as an alternative when the expected content is not given.
+Lists in HTML:
+    In html there are two types of lists'
+        *Ordered list.<ol>
+            In ordered list it will allign as 
+                1...
+                2...
+        *Unordered list.<ul>
+            In unordered list it will allign as 
+                .given texthn
+                .another given text
+
